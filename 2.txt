@@ -1,3 +1,7 @@
 1、2222222222222222222
 2、tell me please
+<<<<<<< HEAD
 3、reps3 修改了文件
+=======
+3、repository2  修改了文件
+>>>>>>> 21171a653bb0cd50a087be30a5b2cbca4a5a1f15
